@@ -1,5 +1,8 @@
 import React from 'react'
-import './global.css'
+import { Navbar } from './components/Navbar';
+import { Footer } from './components/Footer';
+import { Routes } from './components/Routes';
+
 const App = () => {
   return (
     <div>
